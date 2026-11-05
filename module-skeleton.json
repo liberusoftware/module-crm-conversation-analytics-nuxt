@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-conversation-analytics-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-conversation-analytics",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-conversation-analytics-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/conversation-analytics.md",
+  "presentationPlan": "projects/crm/nuxt/conversation-analytics.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
